@@ -27,7 +27,7 @@ password = 'your_password'
 2. Change this line with your custom tags.
 ```
 #
-tags = ['l4l','','','']
+tags = ['palashu','instafollower','instalover','bot']
 ```
 3. In order to keep your account safe and not locked out, you should be satisfied with less than 500 likes per day.
 ```python
