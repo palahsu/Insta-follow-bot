@@ -5,9 +5,10 @@ An instagram bot developed in Python with Selenium that helps you get more Insta
 You’ll need to have:
 
  - [Python](https://www.python.org/downloads/)
- - [Selenium](https://selenium-python.readthedocs.io/installation.html)
+ - [Selenium](https://pypi.org/project/selenium)
  - [Google Chrome](https://www.google.com/chrome/)
  - [Chromedriver](https://chromedriver.chromium.org/downloads)
+ - [webdriver-manager](https://pypi.org/project/webdriver-manager)
 
 Go check them out if you don't have them locally installed.
 
