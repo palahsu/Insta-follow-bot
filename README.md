@@ -16,7 +16,7 @@ If you have correctly downloaded Chromedriver and install.
 
 ## Usage
 
-Open **instafollow.py** , you’ll have to change some lines.
+Open **instafollowbot.py** , you’ll have to change some lines.
 
 Step 1. Change your_username and your_password to your Instagram credentials.
 ```
