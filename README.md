@@ -12,7 +12,7 @@ You’ll need to have:
 
 Go check them out if you don't have them locally installed.
 
-If you have correctly downloaded Chromedriver,try adding Chromedriver location to your PATH system environment variable.
+If you have correctly downloaded Chromedriver and install.
 
 ## Usage
 
@@ -37,5 +37,5 @@ while  like_cnt < 100:
 ```
 4. Run
 ```
- m.py
+ instafollowbot.py
 ```
