@@ -58,7 +58,7 @@ if __name__ == '__main__':
     search(tag)
 
     #Like Number Count
-    while like_cnt < 100:
+    while like_cnt < 100:  #Please, dont use over!
         like()
 
     driver.quit()
