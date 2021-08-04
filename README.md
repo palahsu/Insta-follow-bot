@@ -16,23 +16,23 @@ If you have correctly downloaded Chromedriver and install.
 
 ## Usage
 
-Open **main.py** , you’ll have to change some lines.
+Open **instafollow.py** , you’ll have to change some lines.
 
-1. Change your_username and your_password to your Instagram credentials.
+Step 1. Change your_username and your_password to your Instagram credentials.
 ```
 #
-username = 'your_username'
-password = 'your_password'
+username = 'Your Username'
+password = 'Your Password'
 ```
-2. Change this line with your custom tags.
+Step 2. Change this line with your custom tags.
 ```
 #
 tags = ['palashu','instafollower','instalover','bot']
 ```
-3. In order to keep your account safe and not locked out, you should be satisfied with less than 500 likes per day.
+Step 3. In order to keep your account safe and not locked out, you should be satisfied with less than 500 likes per day.
 ```python
 #
-while  like_cnt < 100:
+while  like_cnt < 500:
 	like()
 ```
 4. Run
